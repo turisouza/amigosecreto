@@ -1,6 +1,8 @@
 # amigosecreto
 Projeto desenvolvido durante um curso de Lógica de Programação com JS na Alura
 
+O Objetivo do projeto foi desenvolver um código JS buscando ativar as funcionalidades de inclusão de nome dos amigos, montagem de uma lista e sorteio aleatório.
+
 Conhecimentos trabalhados neste projeto:
 
 - Declarando variáveis
